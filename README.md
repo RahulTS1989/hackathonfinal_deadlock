@@ -86,7 +86,7 @@ AUTH = 'YOUR_TWILIO_AUTH_TOKEN'
 
 ---
 
-## 🏃‍♂️ How to Run the Demo
+##  Run
 
 1. **Start the Application:**
 ```bash
